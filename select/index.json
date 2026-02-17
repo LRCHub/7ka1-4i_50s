@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Romantic",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-02-17T14:00:43.516354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "낭만길 Romantic St.",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_낭만길_Romantic_St._Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "낭만길 (Romantic St.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_낭만길_(Romantic_St.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Und täglich grüßen Fanta Vier / Romantic Fighters",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/03_Und_täglich_grüßen_Fanta_Vier___Romantic_Fighters_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How Fucking Romantic",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/04_How_Fucking_Romantic_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mass Romantic",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/05_Mass_Romantic_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Drunk Pilot and the Romantic Passenger",
+      "artist": "Eiafuawn",
+      "has_synced": true,
+      "path": "select/06_The_Drunk_Pilot_and_the_Romantic_Passenger_Eiafuawn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Romantic Rights",
+      "artist": "Death from Above 1979",
+      "has_synced": true,
+      "path": "select/07_Romantic_Rights_Death_from_Above_1979.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Frantic Romantic",
+      "artist": "Jermaine Stewart",
+      "has_synced": true,
+      "path": "select/08_Frantic_Romantic_Jermaine_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Get Weak (Romantic Mix)",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/09_I_Get_Weak_(Romantic_Mix)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hopeless Romantic",
+      "artist": "Tink",
+      "has_synced": true,
+      "path": "select/10_Hopeless_Romantic_Tink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Romantic Warriors",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/11_Romantic_Warriors_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Romantic",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/12_Romantic_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Romantic Comedy",
+      "artist": "Róisín Murphy",
+      "has_synced": true,
+      "path": "select/13_Romantic_Comedy_Róisín_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Isn't It Romantic",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/14_Isn't_It_Romantic_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Incurably Romantic",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/15_Incurably_Romantic_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Incurably Romantic (Version)",
+      "artist": "Marilyn Monroe",
+      "has_synced": false,
+      "path": "select/16_Incurably_Romantic_(Version)_Marilyn_Monroe.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Romantic Love",
+      "artist": "DJ Cam",
+      "has_synced": false,
+      "path": "select/17_Romantic_Love_DJ_Cam.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romantic",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_Romantic_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
